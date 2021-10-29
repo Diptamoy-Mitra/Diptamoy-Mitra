@@ -1,5 +1,6 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
-<img src="![welcome](https://user-images.githubusercontent.com/91617575/139471044-951b384c-97be-4a44-b350-324cef299d25.png)"/>
+
 <h3 align="center">A passionate Frontend Developer and Problem Solver from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diptamoy-mitra" alt="diptamoy-mitra" /></a> </p>
 
