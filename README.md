@@ -1,5 +1,5 @@
 
-<img src="![welcome](https://user-images.githubusercontent.com/91617575/139468126-f4642d35-8b2b-45da-a78e-4eb3773c64ad.png)">
+<img src="![welcome](https://user-images.githubusercontent.com/91617575/139468809-97a58ccc-2862-4284-90d9-ddcfa99be234.png)">
 <h3 align="center">A passionate Frontend Developer and Problem Solver from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diptamoy-mitra&label=Profile%20views&color=0e75b6&style=flat" alt="diptamoy-mitra" /> </p>
