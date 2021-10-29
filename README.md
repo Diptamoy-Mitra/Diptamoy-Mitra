@@ -1,5 +1,5 @@
 
-(p align="left")(img src="https://komarev.com/ghpvc/?username=k..." alt="Diptamoy-Mitra" /)(/p)
+<img src="https://images.app.goo.gl/jDYL8fPoSezuExXZ8">
 <h3 align="center">A passionate Frontend Developer and Problem Solver from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diptamoy-mitra&label=Profile%20views&color=0e75b6&style=flat" alt="diptamoy-mitra" /> </p>
