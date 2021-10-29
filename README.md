@@ -1,9 +1,6 @@
 
-
+<img src="![welcome](https://user-images.githubusercontent.com/91617575/139471044-951b384c-97be-4a44-b350-324cef299d25.png)"/>
 <h3 align="center">A passionate Frontend Developer and Problem Solver from India</h3>
-
-<p align="left"> <img src=" ![welcome](https://user-images.githubusercontent.com/91617575/139470638-b3d00117-643f-4bbe-9b48-137487012abe.png)"  /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diptamoy-mitra" alt="diptamoy-mitra" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures And Algorithm, C++,C,HTML,CSS,JS, Python**
