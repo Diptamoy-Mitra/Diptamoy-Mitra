@@ -1,8 +1,8 @@
 
-<img src="![welcome](https://user-images.githubusercontent.com/91617575/139468809-97a58ccc-2862-4284-90d9-ddcfa99be234.png)">
+
 <h3 align="center">A passionate Frontend Developer and Problem Solver from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diptamoy-mitra&label=Profile%20views&color=0e75b6&style=flat" alt="diptamoy-mitra" /> </p>
+<p align="left"> <img src=" ![welcome](https://user-images.githubusercontent.com/91617575/139470638-b3d00117-643f-4bbe-9b48-137487012abe.png)"  /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diptamoy-mitra" alt="diptamoy-mitra" /></a> </p>
 
