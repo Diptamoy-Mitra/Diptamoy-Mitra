@@ -2,7 +2,7 @@
 
 
 <h3 align="center">A passionate Frontend Developer and Problem Solver from India</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diptamoy-mitra" alt="diptamoy-mitra" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=diptamoy-mitra" alt="diptamoy-mitra" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures And Algorithm, C++,C,HTML,CSS,JS, Python**
 
