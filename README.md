@@ -72,7 +72,7 @@
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diptamoy-Mitra&theme=monokai" display=block width=100% height=auto alt="1"></td>
     </tr>
     <tr>
-        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diptamoy-Mitra&theme=solarized" display=block width=80% height=auto alt="3"></td>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diptamoy-Mitra&theme=solarized" display=block width=100% height=auto alt="3"></td>
         </td>
     </tr>
 </table>
