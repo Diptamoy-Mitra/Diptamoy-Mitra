@@ -1,4 +1,4 @@
-<img src="![welcome](https://content.techgig.com/photo/79468180/7-Hacks-to-become-a-better-Java-problem-solver.jpg)"/>
+<img src="https://content.techgig.com/photo/79468180/7-Hacks-to-become-a-better-Java-problem-solver.jpg"/>
 <h1 align="center">Hi 👋, I'm Diptamoy</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
