@@ -1,7 +1,9 @@
 <img src="https://content.techgig.com/photo/79468180/7-Hacks-to-become-a-better-Java-problem-solver.jpg"/>
-![](https://komarev.com/ghpvc/?username=Diptamoy-Mitra)
+https://komarev.com/ghpvc/?username=Diptamoy-Mitra
 <h1 align="center">Hi 👋, I'm Diptamoy</h1>
 <h3 align="center">A passionate web developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Diptamoy-Mitra" alt="priyanka001tech" /> </p>
 
 <img align="right" width="450px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="coder"> - 🌱 I’m currently learning **Frontend Development** - 🌱 Learning **Data Structure and Alogorithm** - 🌱 Participate in **CodeChef Contests**
 - 📫 How to reach me **mitradiptamoy70@gmail.com** - ⚡ Fun fact **I think I'm Funny ;)**
