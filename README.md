@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
 
-<h3 align="center">A passionate Frontend Developer and Problem Solver from India</h3>
+<h3 align="center">A passionate Full-stack web Developer and Problem Solver from India</h3>
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=diptamoy-mitra" alt="diptamoy-mitra" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures And Algorithm, C++,C,HTML,CSS,JS, Python**
