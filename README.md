@@ -15,15 +15,7 @@
     <a href="https://www.facebook.com/diptamoy.mitra" target="blank"> &nbsp; <img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                         alt="Diptamoy-mitra" height="30" width="40" /> &nbsp; </a>
-    <a href="https://www.codechef.com/users/diptamoy_123" target="blank"> &nbsp; <img align="center"
-                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="diptamoy751"
-                        height="30" width="40" /> &nbsp; </a>
-    <a href="https://leetcode.com/Diptamoy_Mitra/" target="blank"> &nbsp; <img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-                        alt="Diptamoy-mitra" height="30" width="40" /> &nbsp; </a>
-    <a href="https://auth.geeksforgeeks.org/user/mitradiptamoy/practice/" target="blank"> &nbsp; <img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-                        alt="coderocks" height="30" width="40" /> &nbsp; </a>
+    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
