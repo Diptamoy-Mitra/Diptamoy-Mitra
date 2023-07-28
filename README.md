@@ -10,10 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/diptamoy-mitra-ba9920203/" target="blank"> &nbsp; <img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                        alt="Diptamoy-mitra" height="30" width="40" /> &nbsp; </a>
-    <a href="https://www.facebook.com/diptamoy.mitra" target="blank"> &nbsp; <img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+                        src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png"
                         alt="Diptamoy-mitra" height="30" width="40" /> &nbsp; </a>
     
 </p>
